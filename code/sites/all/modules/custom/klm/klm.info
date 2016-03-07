@@ -1,0 +1,6 @@
+name = klm
+description = Support module for Karibuni Listing Management
+package = Karibuni Support Modules
+
+files[] = klm.module
+core = 7.x
